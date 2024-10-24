@@ -64,10 +64,13 @@
 
 ## 5. 프로젝트 결과
 
- 1. 링크.
-    
-    https://drive.google.com/file/d/1yp2KvddcPthsn0Y7itaHEFay7ueVpCR-/view?usp=drive_link
-    https://drive.google.com/file/d/1GcU8kEHvs7utF4awRvz9vQHTPYshmUE9/view?usp=drive_link
+1. 시연영상 링크
 
----
+   - [시연 영상 1](https://drive.google.com/file/d/1yp2KvddcPthsn0Y7itaHEFay7ueVpCR-/view?usp=drive_link)
+   - [시연 영상 2](https://drive.google.com/file/d/1GcU8kEHvs7utF4awRvz9vQHTPYshmUE9/view?usp=drive_link)
+
+2. 발표자료 (PDF)
+
+   - [발표자료](https://github.com/wjsghk1267/team-project/blob/private/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%88%98%ED%96%89%20%EA%B2%B0%EA%B3%BC_1%ED%8C%80_%EB%B0%98%EC%82%AC%EB%AA%A8.pdf)
+
 
