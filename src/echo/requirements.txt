@@ -1,0 +1,4 @@
+fastapi
+pydantic
+motor  # MongoDB 비동기 드라이버
+uvicorn
